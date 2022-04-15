@@ -1,0 +1,3 @@
+C:/Users/pwlqr/source/repos/dataStracture2Ex4/cmake-build-debug/CMakeFiles/dataStracture2Ex4.dir
+C:/Users/pwlqr/source/repos/dataStracture2Ex4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pwlqr/source/repos/dataStracture2Ex4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
